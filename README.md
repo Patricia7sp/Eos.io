@@ -1,17 +1,17 @@
 #   Eos.io
-##  Desenvolvimento  de DApps com EOS.IO<br>
+##  Development of DApps with EOS.IO <br>
 
-###  Desenvolvi um aprendizado com Eos.io a onde envolve:<br>
+###  I developed a learning with Eos.io where it:<br>
   
-  •  infraestrutura da plataforma;<br>
+  •  Platform Infrastructure;<br>
     •  Block producers;<br>
-    • Aplicações em Eos.io;<br>
-    • Montar um ambiente privado com Docker;<br>
-    • Montando ambiente privado por build;<br>
-    • Testando ambientes públicos: Jungle Testnet e MainNet;<br>
-    • Atuando com os processos Nodeos, Keos e Cleos;<br>
-    • Manipular Keys, Wallets e accounts;<br>
+    • Applications in Eos.io;<br>
+    • Build a private environment with Docker;<br>
+    • Setting up private environment for build;<br>
+    • Testing Public Environments: Jungle Testnet e MainNet;<br>
+    • Acting with the processes Nodeos, Keos e Cleos;<br>
+    • Manipulate Keys, Wallets e accounts;<br>
     • Smart contracts (C++);<br>
-    • Compilação (Web assembly), ABI e Deploy;<br>
-    • Execucao e Debugging;<br>
+    • Compilation (Web assembly), ABI e Deploy;<br>
+    • Execution e Debugging;<br>
     • API eosjs (Back-end).	<br>
